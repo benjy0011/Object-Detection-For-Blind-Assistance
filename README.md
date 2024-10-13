@@ -7,6 +7,11 @@ This is my internship project, integrating AI models such as YOLOv7 object segme
 
 ROS (Robot Operating System) is required for this project, as it was initially developed for robotics purposes. Additionally, it requires the installation and configuration of certain AI models mentioned below. Some of the necessary files and configurations are included in the folder, with the rest listed below for setup.
 
+## Features
+- Object detection with distance info
+- Voice controlled
+- Image captioning (describe current frame)
+
 ## Additional Info
 
 ### Create Workshop
@@ -44,6 +49,11 @@ $ roslaunch od_pkg od.launch
 - A microphone  
 
 ## Demo
+![10](https://github.com/user-attachments/assets/1568197c-5fd6-42ca-91e5-9e173797f60d)
+
+(notice the detected voice in the right side)
+https://github.com/user-attachments/assets/340fe6c5-3b16-4674-89dc-195a0597e4f7
+
 
 
 
