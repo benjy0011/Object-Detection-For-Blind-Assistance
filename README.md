@@ -1,7 +1,7 @@
 
 # Object Detection System For Blind Assistance
 
-This is my internship project, integrating AI models such as YOLOv7 object segmentation, VOSK speech-to-text, OFA image captioning, and a depth camera. This repository is for self-reference purposes, so it has not been fully tidied up. This project won me the ViTrox Tech4Good Challenge 2023 - 2nd Runner-Up.
+This is my internship project, integrating AI models such as YOLOv7 object segmentation, VOSK speech-to-text, OFA image captioning, and a depth camera. This repository is for self-reference purposes, so it has not been fully tidied up. This project won me the **ViTrox Tech4Good Challenge 2023 - 2nd Runner-Up**.
 
 ## Brief Description
 
