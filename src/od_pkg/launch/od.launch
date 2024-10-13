@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<launch>
+
+<include file="$(find od_pkg)/launch/preod.launch">
+
+    <arg name="show_description" value="true"/>
+    <arg name="show_speech" value="true"/>
+    <arg name="show_mic" value="true"/>
+    <arg name="camera_name" value="rsD435"/>
+    <arg name="sr_name" value="Vosk"/>
+    <arg name="speaker_name" value="Speaker"/>
+    <arg name="detection_name" value="YoloDet2"/>  
+    <arg name="caption_name" value="OFA"/> 
+
+</include>
+
+</launch>

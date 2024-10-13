@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/benjy/workspace/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/benjy/workspace/src/yolov4-for-darknet_ros/darknet_ros/darknet_ros/include/**",
+        "/home/benjy/od_ws/src/od_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

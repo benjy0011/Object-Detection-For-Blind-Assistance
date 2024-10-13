@@ -1,0 +1,2 @@
+od_pkg
+-DCATKIN_DEVEL_PREFIX=/home/benjy/od_ws/devel -DCMAKE_INSTALL_PREFIX=/home/benjy/od_ws/install -G Unix Makefiles

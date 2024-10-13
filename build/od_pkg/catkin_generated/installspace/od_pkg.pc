@@ -1,0 +1,8 @@
+prefix=/home/benjy/od_ws/install
+
+Name: od_pkg
+Description: Description of od_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
