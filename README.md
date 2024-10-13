@@ -7,7 +7,7 @@ This is my internship project, integrating AI models such as YOLOv7 object segme
 
 ROS (Robot Operating System) is required for this project, as it was initially developed for robotics purposes. Additionally, it requires the installation and configuration of certain AI models mentioned below. Some of the necessary files and configurations are included in the folder, with the rest listed below for setup.
 
-## Features
+## ⭐Features
 - Object detection with distance info
 - Voice controlled
 - Image captioning (describe current frame)
