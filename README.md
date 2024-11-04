@@ -50,6 +50,8 @@ $ roslaunch od_pkg od.launch
 
 ## Demo
 ![10](https://github.com/user-attachments/assets/1568197c-5fd6-42ca-91e5-9e173797f60d)
+![inference](https://github.com/user-attachments/assets/45df0bbe-5efb-4631-83ff-aba473e58bea)
+
 
 - Video (notice the detected voice on the right side)  
 https://github.com/user-attachments/assets/340fe6c5-3b16-4674-89dc-195a0597e4f7
